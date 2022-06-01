@@ -66,3 +66,8 @@ Based on the t test the p=value is 0.00000003405 from this we can reject the nul
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
+
+The difference between the cultivation methods between c39 and c52 are that c39 were found to have a numerical difference of vitimin c produced, we rejected the null hypothesis because the p=value was 0.00000003405.  
+
+
+
